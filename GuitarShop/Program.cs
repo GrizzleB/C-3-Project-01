@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 
 //Name:     Project 1
 //Author:   Ryan Gerhardt
-//Date:     9/2/2020
+//Date:     09/02/2020
 
 namespace GuitarShop
 {
